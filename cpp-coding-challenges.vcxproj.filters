@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\001_arrangement">
+      <UniqueIdentifier>{0fcc6e72-e416-426e-9e97-eec068e2ebda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\002_stack">
+      <UniqueIdentifier>{2483a8bd-942b-4828-9537-63c83a0659a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\003_queue">
+      <UniqueIdentifier>{3395d7a6-3162-4309-9614-354a158a0560}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\004_hash">
+      <UniqueIdentifier>{006def83-8c8e-4cbc-a78c-f3cc12f7a34d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="001_arrangement\001.cpp">
+      <Filter>소스 파일\001_arrangement</Filter>
+    </ClCompile>
+    <ClCompile Include="001_arrangement\002.cpp">
+      <Filter>소스 파일\001_arrangement</Filter>
+    </ClCompile>
+    <ClCompile Include="001_arrangement\003.cpp">
+      <Filter>소스 파일\001_arrangement</Filter>
+    </ClCompile>
+    <ClCompile Include="001_arrangement\004.cpp">
+      <Filter>소스 파일\001_arrangement</Filter>
+    </ClCompile>
+    <ClCompile Include="001_arrangement\005.cpp">
+      <Filter>소스 파일\001_arrangement</Filter>
+    </ClCompile>
+    <ClCompile Include="001_arrangement\006.cpp">
+      <Filter>소스 파일\001_arrangement</Filter>
+    </ClCompile>
+    <ClCompile Include="001_arrangement\007.cpp">
+      <Filter>소스 파일\001_arrangement</Filter>
+    </ClCompile>
+    <ClCompile Include="004_hash\018.cpp">
+      <Filter>소스 파일\004_hash</Filter>
+    </ClCompile>
+    <ClCompile Include="004_hash\019.cpp">
+      <Filter>소스 파일\004_hash</Filter>
+    </ClCompile>
+    <ClCompile Include="004_hash\020.cpp">
+      <Filter>소스 파일\004_hash</Filter>
+    </ClCompile>
+    <ClCompile Include="004_hash\021.cpp">
+      <Filter>소스 파일\004_hash</Filter>
+    </ClCompile>
+    <ClCompile Include="002_stack\014.cpp">
+      <Filter>소스 파일\002_stack</Filter>
+    </ClCompile>
+    <ClCompile Include="002_stack\008.cpp">
+      <Filter>소스 파일\002_stack</Filter>
+    </ClCompile>
+    <ClCompile Include="002_stack\009.cpp">
+      <Filter>소스 파일\002_stack</Filter>
+    </ClCompile>
+    <ClCompile Include="002_stack\010.cpp">
+      <Filter>소스 파일\002_stack</Filter>
+    </ClCompile>
+    <ClCompile Include="002_stack\011.cpp">
+      <Filter>소스 파일\002_stack</Filter>
+    </ClCompile>
+    <ClCompile Include="002_stack\012.cpp">
+      <Filter>소스 파일\002_stack</Filter>
+    </ClCompile>
+    <ClCompile Include="002_stack\013.cpp">
+      <Filter>소스 파일\002_stack</Filter>
+    </ClCompile>
+    <ClCompile Include="004_hash\022.cpp">
+      <Filter>소스 파일\004_hash</Filter>
+    </ClCompile>
+    <ClCompile Include="004_hash\023.cpp">
+      <Filter>소스 파일\004_hash</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
